@@ -1,0 +1,6 @@
+[submodule "ProximityproReactFrontend"]
+	path = ProximityproReactFrontend
+	url = https://github.com/Amith-AG/ProximityproReactFrontend
+[submodule "ProximityproSpringBackend"]
+	path = ProximityproSpringBackend
+	url = https://github.com/Amith-AG/ProximityproSpringBackend
